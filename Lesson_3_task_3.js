@@ -14,7 +14,3 @@ function countBasketPrice(arr) {
 prices = [2, 3, 4, 5, 100];
 
 countBasketPrice(prices);
-
-
-
-
